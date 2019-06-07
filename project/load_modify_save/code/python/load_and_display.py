@@ -1,7 +1,7 @@
 import cv2
 
 if __name__ == "__main__":
-    image_path = '../../data/car.jpg'
+    image_path = './car.jpg'
     image = cv2.imread(image_path)
     if image is None:
         print("Could not open image: {}".format(image_path))
