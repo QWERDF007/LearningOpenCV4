@@ -12,7 +12,7 @@
 
 ## Result
 
-![result](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/load_modify_save/result/result.jpg)
+![result](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/mat_basic_image_container/result/result.jpg)
 
 
 
