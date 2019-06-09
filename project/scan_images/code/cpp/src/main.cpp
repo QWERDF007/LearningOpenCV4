@@ -20,7 +20,6 @@ int main(int argc, char *argv[])
 	}
 	namedWindow("src", WINDOW_NORMAL);
 	namedWindow("dst", WINDOW_NORMAL);
-	imshow("src", image);
 	Mat dstImage = image.clone();
 	// 创建查找表
 	int divideValue = 10;
@@ -53,6 +52,7 @@ int main(int argc, char *argv[])
 	end = clock();
 	std::cout << "LUT time: " << end - start << "ms\n";
 
+	imshow("src", image);
 	imshow("dst", dstImage);
 	waitKey(); 
     return 0;
