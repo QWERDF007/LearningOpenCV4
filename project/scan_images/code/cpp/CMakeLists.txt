@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 # 自定义变量，方便修改
-set(PROJECT_NAME load_modify_save)
+set(PROJECT_NAME scan_images)
 
 project(${PROJECT_NAME})
 

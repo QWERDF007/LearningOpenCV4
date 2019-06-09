@@ -33,6 +33,5 @@ int main(int argc, char *argv[])
 	cout << "R (numpy):\n" << format(R, Formatter::FMT_NUMPY) << endl << endl;
 	cout << "R (csv):\n" << format(R, Formatter::FMT_CSV) << endl << endl;
 	cout << "R (c):\n" << format(R, Formatter::FMT_C) << endl << endl;
-	system("pause");
     return 0;
 }
