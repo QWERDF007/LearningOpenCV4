@@ -12,4 +12,4 @@
 
 ## Result
 
-![debug](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/mask_operations/result/result.jpg)
+![result.jpg](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/mask_operations/result/result.jpg)
