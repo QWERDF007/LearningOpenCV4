@@ -44,5 +44,6 @@
 | [基本图像容器](/project/mat_basic_image_container) | [cpp](/project/mat_basic_image_container/code/cpp)  [python](/project/mat_basic_image_container/code/python) | [README](/project/mat_basic_image_container/README.md) | [Tutorial](<https://docs.opencv.org/master/d6/d6d/tutorial_mat_the_basic_image_container.html>) |
 | [扫描图像](/project/scan_images) | [cpp](/project/scan_images/code/cpp)  [python](/project/scan_images/code/python) | [README](/project/scan_images/README.md) | [Tutorial](<https://docs.opencv.org/master/db/da5/tutorial_how_to_scan_images.html>) |
 | [掩码操作](/project/mask_operations) | [cpp](/project/mask_operations/code/cpp)  [python](/project/mask_operations/code/python) | [README](/project/mask_operations/README.md) | [Tutorial](<https://docs.opencv.org/master/d7/d37/tutorial_mat_mask_operations.html>) |
+| [图像相关操作](/project/operations_with_images) | [cpp](/project/operations_with_images/code/cpp)  [python](/project/operations_with_images/code/python) | [README](/project/operations_with_images/README.md) | [Tutorial](<https://docs.opencv.org/master/d5/d98/tutorial_mat_operations.html>) |
 
 
