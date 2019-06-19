@@ -1,4 +1,4 @@
-# 掩码操作
+# 掩码操作(图像卷积/核操作)
 
 ## 目标
 
@@ -13,3 +13,4 @@
 ## Result
 
 ![result.jpg](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/mask_operations/result/result.jpg)
+
