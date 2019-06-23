@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-if __name__ == "__main__":
+def main():
     A = cv2.imread('./car.jpg', cv2.IMREAD_COLOR)
     B = A
     # 拷贝构造
@@ -20,3 +20,7 @@ if __name__ == "__main__":
     # cv2.imshow("D", D)
     # cv2.imshow("E", E)
     # cv2.waitKey()
+
+if __name__ == "__main__":
+    main()
+    

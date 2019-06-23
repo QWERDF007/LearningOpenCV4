@@ -24,3 +24,11 @@ Windows:
 | On-The-Fly RA                       | 1680ms     | 19ms         |
 | LUT                                 | 19ms       | 11ms         |
 
+## Reference
+
+- [How to scan images, lookup tables and time measurement with OpenCV](<https://docs.opencv.org/4.1.0/db/da5/tutorial_how_to_scan_images.html>)
+- [clock](http://www.cplusplus.com/reference/ctime/clock/)
+- [cv::getTickCount](<https://docs.opencv.org/4.1.0/db/de0/group__core__utils.html#gae73f58000611a1af25dd36d496bf4487>)
+- [cv::getTickFrequency](<https://docs.opencv.org/4.1.0/db/de0/group__core__utils.html#ga705441a9ef01f47acdc55d87fbe5090c>)
+- [cv::Mat::isContinuous()](<https://docs.opencv.org/4.1.0/d3/d63/classcv_1_1Mat.html#aa90cea495029c7d1ee0a41361ccecdf3>)
+

@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 
-if __name__ == "__main__":
+def main():
     image_path = './scene.jpg'
     image = cv2.imread(image_path, cv2.IMREAD_COLOR)
     if image is not None:
@@ -26,3 +26,6 @@ if __name__ == "__main__":
         # cv2.imshow('src', image)
         # cv2.imshow('dst', dst_image)
         # cv2.waitKey()
+
+if __name__ == "__main__":
+    main()
