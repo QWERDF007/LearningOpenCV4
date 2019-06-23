@@ -10,3 +10,4 @@ def main():
         print("Could not open image: {}".format(image_path))
 
 if __name__ == "__main__":
+    main()
