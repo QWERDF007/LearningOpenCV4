@@ -3,6 +3,7 @@ import numpy as np
 
 
 def main():
+<<<<<<< HEAD
     # 读取
     image_path = './car.jpg'
     src = cv2.imread(image_path)
