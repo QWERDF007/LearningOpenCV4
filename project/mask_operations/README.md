@@ -14,7 +14,6 @@
 
 ![result.jpg](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/mask_operations/result/result.jpg)
 
-<<<<<<< HEAD
 ## Reference
 
 - [Mask operations on matriecs](https://docs.opencv.org/4.1.0/d7/d37/tutorial_mat_mask_operations.html)
