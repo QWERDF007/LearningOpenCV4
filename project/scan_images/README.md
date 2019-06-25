@@ -1,6 +1,6 @@
 # 扫描图像
 
-## 目标
+## Goals
 
 - 遍历图像的每个像素
 - 测量算法的时间性能
@@ -13,7 +13,7 @@
 
 ## Result
 
-![debug](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/scan_images/result/result.jpg)
+![result](https://github.com/QWERDF007/LearningOpenCV4/blob/master/project/scan_images/result/result.jpg)
 
 Windows:
 

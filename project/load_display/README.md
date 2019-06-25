@@ -1,6 +1,6 @@
 # 加载与显示图像
 
-## 目标
+## Goals
 
 - 加载图像(cv::imread)
 - 创建窗口(cv::namedWindow)

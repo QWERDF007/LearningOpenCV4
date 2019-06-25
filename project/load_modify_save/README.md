@@ -1,6 +1,6 @@
 # 加载，修改与保存
 
-## 目标
+## Goals
 
 - 加载图像(cv::imread)
 - 将图像从 BGR 转换为灰度图(cv::cvtColor)
