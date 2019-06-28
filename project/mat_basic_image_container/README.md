@@ -2,7 +2,7 @@
 
 ## Goals
 
-- 熟悉 cv::Mat
+- 熟悉 `cv::Mat`
 - 熟悉 OpenCV 如何存储与操作图像
 
 ## Code

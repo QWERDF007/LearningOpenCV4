@@ -2,9 +2,9 @@
 
 ## Goals
 
-- 加载图像(cv::imread)
-- 将图像从 BGR 转换为灰度图(cv::cvtColor)
-- 保存转换后的图像(cv::imwrite)
+- 加载图像(`cv::imread`)
+- 将图像从 BGR 转换为灰度图(`cv::cvtColor`)
+- 保存转换后的图像(`cv::imwrite`)
 
 ## Code
 

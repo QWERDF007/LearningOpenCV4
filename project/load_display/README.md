@@ -2,9 +2,9 @@
 
 ## Goals
 
-- 加载图像(cv::imread)
-- 创建窗口(cv::namedWindow)
-- 在窗口中显示图像(cv::imshow)
+- 加载图像(`cv::imread`)
+- 创建窗口(`cv::namedWindow`)
+- 在窗口中显示图像(`cv::imshow`)
 
 ## Code
 
