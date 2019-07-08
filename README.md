@@ -47,5 +47,7 @@
 | [图像相关操作](/project/operations_with_images) | [cpp](/project/operations_with_images/code/cpp)  [python](/project/operations_with_images/code/python) | [README](/project/operations_with_images/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d5/d98/tutorial_mat_operations.html>) |
 | [混合图像](/project/blend_images) | [cpp](/project/blend_images/code/cpp)  [python](/project/blend_images/code/python) | [README](/project/blend_images/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d3/dc1/tutorial_basic_linear_transform.html>) |
 | [修改对比度和亮度](/project/change_contrast_brightness) | [cpp](/project/change_contrast_brightness/code/cpp)  [python](/project/change_contrast_brightness/code/python) | [README](/project/change_contrast_brightness/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d3/dc1/tutorial_basic_linear_transform.html>) |
+| [离散傅里叶变换](/project/discrete_fourier_transform) | [cpp](/project/discrete_fourier_transform/code/cpp)  [python](/project/discrete_fourier_transform/code/python) | [README](/project/discrete_fourier_transform/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d8/d01/tutorial_discrete_fourier_transform.html>) |
+|  |  |  |  |
 |  |  |  |  |
 
