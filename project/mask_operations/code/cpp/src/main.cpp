@@ -42,7 +42,7 @@ void sharpen(Mat &src, Mat &dst)
     CV_Assert(src.depth() == CV_8U);
     
     const int channels = src.channels();
-	dst.create(src.size(), src.type());
+    dst.create(src.size(), src.type());
     for (int i = 1; i < src.rows - 1; ++i)
     {
         const uchar* previous = src.ptr<uchar>(i - 1);

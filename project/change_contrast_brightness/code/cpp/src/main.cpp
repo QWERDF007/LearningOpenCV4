@@ -5,14 +5,14 @@
 
 int main(int argc, char* argv[])
 {
-	double alpha = 1.5;
-	int beta = 25;
-	if (argc >= 3)
-	{
-		alpha = atof(argv[1]);
-		beta = atoi(argv[2]);
-		std::cout << alpha << " " << beta;
-	}
+    double alpha = 1.5;
+    int beta = 25;
+    if (argc >= 3)
+    {
+        alpha = atof(argv[1]);
+        beta = atoi(argv[2]);
+        std::cout << alpha << " " << beta;
+    }
     std::string imagePath = "./car.jpg";
     cv::Mat src = cv::imread(imagePath);
     if (src.empty())
