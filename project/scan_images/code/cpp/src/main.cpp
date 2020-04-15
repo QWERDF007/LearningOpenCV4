@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-Mat& ScanImageAndReduce(Mat& I, const uchar* const table)
+Mat& ScanImageAndReduceC(Mat& I, const uchar* const table)
 {
     CV_Assert(I.depth() == CV_8U); // 断言是否8bit uchar
     const int channels = I.channels();
