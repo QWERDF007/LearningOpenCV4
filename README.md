@@ -49,5 +49,6 @@
 | [修改对比度和亮度](/project/change_contrast_brightness) | [cpp](/project/change_contrast_brightness/code/cpp)  [python](/project/change_contrast_brightness/code/python) | [README](/project/change_contrast_brightness/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d3/dc1/tutorial_basic_linear_transform.html>) |
 | [离散傅里叶变换](/project/discrete_fourier_transform) | [cpp](/project/discrete_fourier_transform/code/cpp)  [python](/project/discrete_fourier_transform/code/python) | [README](/project/discrete_fourier_transform/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d8/d01/tutorial_discrete_fourier_transform.html>) |
 | [XML&YML文件输入输出](/project/file_io_using_xml_yaml) | [cpp](/project/file_io_using_xml_yaml/code/cpp) [python](/project/file_io_using_xml_yaml/code/python) | [README](/project/file_io_using_xml_yaml/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/dd/d74/tutorial_file_input_output_with_xml_yml.html>) |
+| [基础绘制](/project/basic_drawing) | [cpp](/project/basic_drawing/code/cpp) [python](/project/basic_drawing/code/python) | [README](/project/basic_drawing/README.md) | [Tutorial](<https://docs.opencv.org/4.1.0/d3/d96/tutorial_basic_geometric_drawing.html>) |
 |  |  |  |  |
 
